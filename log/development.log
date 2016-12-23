@@ -1,0 +1,2157 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 12:38:01 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/railties-4.2.6/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 36ms (Views: 19.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 13:06:51 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/railties-4.2.6/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 36ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2016-12-02 13:07:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2395ms (Views: 2393.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:10 -0400
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2016-12-02 13:07:54 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 48ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 13:07:54 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:54 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:55 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:55 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:55 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 13:07:55 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 13:07:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 13:10:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 44ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:17:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 1206ms (Views: 1185.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:22:06 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 63ms (Views: 61.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:22:06 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:22:06 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:22:06 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:22:06 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:22:06 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:22:07 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:22:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:31:41 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 636ms (Views: 612.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:31:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:32:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 50ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:32:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 61ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:33:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 62ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:35:50 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 57ms (Views: 55.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:35:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 59ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:36:53 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 65ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-02 23:47:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 244ms (Views: 243.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/flexboxgrid.self-b970699bc4d59c38bc48560b26bd4f4722f6f337783f0379fd72fdeb6e1dafe0.css?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-03 00:01:28 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 09:06:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 1439ms (Views: 1404.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 09:59:31 -0400
+
+Mysql2::Error (Can't connect to MySQL server on '127.0.0.1' (111)):
+  mysql2 (0.4.5) lib/mysql2/client.rb:89:in `connect'
+  mysql2 (0.4.5) lib/mysql2/client.rb:89:in `initialize'
+  activerecord (4.2.6) lib/active_record/connection_adapters/mysql2_adapter.rb:18:in `new'
+  activerecord (4.2.6) lib/active_record/connection_adapters/mysql2_adapter.rb:18:in `mysql2_connection'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/monitor.rb:214:in `mon_synchronize'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/monitor.rb:214:in `mon_synchronize'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+  activerecord (4.2.6) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.2.6) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.2.6) lib/active_record/migration.rb:383:in `connection'
+  activerecord (4.2.6) lib/active_record/migration.rb:370:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (78.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (125.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 10:10:54 -0400
+
+RuntimeError (YAML syntax error occurred while parsing /home/josera/myapp/config/database.yml. Please note that YAML must be consistently indented using spaces. Tabs are not allowed. Error: (<unknown>): mapping values are not allowed in this context at line 14 column 11):
+  railties (4.2.6) lib/rails/application/configuration.rb:115:in `rescue in database_configuration'
+  railties (4.2.6) lib/rails/application/configuration.rb:98:in `database_configuration'
+  activerecord (4.2.6) lib/active_record/railtie.rb:117:in `block (2 levels) in <class:Railtie>'
+  activesupport (4.2.6) lib/active_support/lazy_load_hooks.rb:38:in `instance_eval'
+  activesupport (4.2.6) lib/active_support/lazy_load_hooks.rb:38:in `execute_hook'
+  activesupport (4.2.6) lib/active_support/lazy_load_hooks.rb:45:in `block in run_load_hooks'
+  activesupport (4.2.6) lib/active_support/lazy_load_hooks.rb:44:in `each'
+  activesupport (4.2.6) lib/active_support/lazy_load_hooks.rb:44:in `run_load_hooks'
+  activerecord (4.2.6) lib/active_record/base.rb:315:in `<module:ActiveRecord>'
+  activerecord (4.2.6) lib/active_record/base.rb:26:in `<top (required)>'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:274:in `require'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:274:in `block in require'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:240:in `load_dependency'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:274:in `require'
+  activerecord (4.2.6) lib/active_record/migration.rb:383:in `connection'
+  activerecord (4.2.6) lib/active_record/migration.rb:370:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (50.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (97.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 10:11:55 -0400
+
+ActiveRecord::ConnectionNotEstablished (No connection pool for ActiveRecord::Base):
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:570:in `retrieve_connection'
+  activerecord (4.2.6) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.2.6) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.2.6) lib/active_record/migration.rb:383:in `connection'
+  activerecord (4.2.6) lib/active_record/migration.rb:370:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (15.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (63.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (2.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (50.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (103.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 10:14:02 -0400
+
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+	bin/rake db:migrate RAILS_ENV=development
+
+):
+  activerecord (4.2.6) lib/active_record/migration.rb:392:in `check_pending!'
+  activerecord (4.2.6) lib/active_record/migration.rb:373:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (47.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (49.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (89.6ms)
+  [1m[36m (80.1ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (109.1ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.3ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateArticles (20161203131811)
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.8ms)[0m  CREATE TABLE "articles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" text, "visits_count" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20161203131811"]]
+  [1m[35m (105.5ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-03 10:17:24 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 702ms (Views: 681.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/flexboxgrid.self-b970699bc4d59c38bc48560b26bd4f4722f6f337783f0379fd72fdeb6e1dafe0.css?body=1" for 127.0.0.1 at 2016-12-03 10:17:25 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-12-03 10:17:25 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-12-03 10:17:25 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-12-03 10:17:25 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-12-03 10:17:26 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-12-03 10:17:26 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-12-03 10:17:26 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-12-03 10:17:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 10:05:27 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 1013ms (Views: 966.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:20:48 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 678ms (Views: 659.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:25:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 59ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:31:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 52ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:36:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 272ms (Views: 270.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-8bfa5540910f1d2186db154ff0e85bf30b7d05a4d4d94667da9ea603ef3add11.css?body=1" for 127.0.0.1 at 2016-12-04 11:36:00 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:37:02 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 79ms (Views: 77.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-fbcefd43c7ad50c861a7deef1f72349dd6382697fa64d1ffc3b914dc2fc9a3a2.css?body=1" for 127.0.0.1 at 2016-12-04 11:37:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:37:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 94ms (Views: 92.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:37:20 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 52ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:37:45 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 78ms (Views: 76.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-3a29037b49de666aba1d1814b4dd551612aef324719e1fdc5010c08c3c08fa7b.css?body=1" for 127.0.0.1 at 2016-12-04 11:37:45 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:44:06 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 85ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-d45abc545d855d85f485671f62a7a2f7ab10e3a7617136b13582bd5b5e6fce16.css?body=1" for 127.0.0.1 at 2016-12-04 11:44:06 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:49:15 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 74ms (Views: 73.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-94e5d45febf539460e945fa494944f5da1085b94ee887155d18692914d1d3d3b.css?body=1" for 127.0.0.1 at 2016-12-04 11:49:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:55:06 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-2c4db59787e0ad3d65a03787a72b000dfef6a42cf9387e115996632d5c83f6c8.css?body=1" for 127.0.0.1 at 2016-12-04 11:55:06 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:56:21 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 52ms (Views: 49.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:58:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 50ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:58:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 45ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:58:42 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:58:58 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 46ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 11:59:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 49ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 12:04:12 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 77ms (Views: 76.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-c45548b816f18afda1d0061ab4112dea8cdc7b34e4ce13af5f1d07ec9684c928.css?body=1" for 127.0.0.1 at 2016-12-04 12:04:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 12:09:22 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 78ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-8f8d67391b9027e9ffcffa867c0f9dee871baddb6780d2329bab1c31ca9bb270.css?body=1" for 127.0.0.1 at 2016-12-04 12:09:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 12:10:09 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 57ms (Views: 55.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-04 12:13:20 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 89ms (Views: 87.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-75728f0a8d0dd47fbdbba6fd76d1279ee039342e616836e8e781390c1154aa76.css?body=1" for 127.0.0.1 at 2016-12-04 12:13:21 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-10 20:41:06 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 1748ms (Views: 1719.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 20:44:28 -0400
+
+LoadError (Unable to autoload constant ArticlesController, expected /home/josera/myapp/app/controllers/articles_controller.rb to define it):
+  activesupport (4.2.6) lib/active_support/dependencies.rb:495:in `load_missing_constant'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:184:in `const_missing'
+  activesupport (4.2.6) lib/active_support/inflector/methods.rb:261:in `const_get'
+  activesupport (4.2.6) lib/active_support/inflector/methods.rb:261:in `block in constantize'
+  activesupport (4.2.6) lib/active_support/inflector/methods.rb:259:in `each'
+  activesupport (4.2.6) lib/active_support/inflector/methods.rb:259:in `inject'
+  activesupport (4.2.6) lib/active_support/inflector/methods.rb:259:in `constantize'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:566:in `get'
+  activesupport (4.2.6) lib/active_support/dependencies.rb:597:in `constantize'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:70:in `controller_reference'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:60:in `controller'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:39:in `serve'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.5) lib/rack/etag.rb:24:in `call'
+  rack (1.6.5) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.5) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.6) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.6) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (69.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (106.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (174.3ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 20:45:34 -0400
+
+AbstractController::ActionNotFound (The action 'index' could not be found for ArticlesController):
+  actionpack (4.2.6) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.6) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.6) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.6) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.6) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.5) lib/rack/etag.rb:24:in `call'
+  rack (1.6.5) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.5) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.6) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.6) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (2.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (48.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (97.2ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 20:49:26 -0400
+Processing by ArticlesController#index as HTML
+  Rendered articles/index.html within layouts/application (1.3ms)
+Completed 200 OK in 55ms (Views: 53.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 20:53:45 -0400
+Processing by ArticlesController#index as HTML
+  Rendered articles/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 49ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+  [1m[36mArticle Load (2.9ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "articles" ("title", "body", "visits_count", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["title", "primer articulo"], ["body", "bienvenidos a mi blog"], ["visits_count", 0], ["created_at", "2016-12-11 01:08:02.887912"], ["updated_at", "2016-12-11 01:08:02.887912"]]
+  [1m[35m (73.8ms)[0m  commit transaction
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 21:10:13 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.9ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (19.2ms)
+Completed 200 OK in 174ms (Views: 166.6ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:12:39 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 54ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:18:49 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (6.6ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @articles.title %> </h1>
+    2: 	<div> <%= @articles.body %></div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140109547260'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (22.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (70.7ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:19:56 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @article.title %> </h1>
+    2: 	<div> <%= @article.body %></div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140106103600'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (68.0ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:21:12 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (10.1ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @article.title %> </h1>
+    2: 	<div> 
+    3: 		<%= @article.body %>
+    4: 	</div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140108504440'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (20.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (56.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (32.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (11.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (75.9ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:24:01 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (9.2ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @article.title %> </h1>
+    2: 	<div> 
+    3: 		<%= @article.body %>
+    4: 	</div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140108504440'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (24.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (72.2ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 21:24:08 -0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 54ms (Views: 52.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:24:53 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @article.title %> </h1>
+    2: 	<div> 
+    3: 		<%= @article.body %>
+    4: 	</div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140108504440'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (67.3ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:25:07 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (6.7ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @articles.title %> </h1>
+    2: 	<div> 
+    3: 		<%= @articles.body %>
+    4: 	</div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140111611180'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (22.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (32.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (67.0ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:25:44 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (6.7ms)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1> <%= @articles.title %> </h1>
+    2: 	<div> 
+    3: 		<%= @articles.body %>
+    4: 	</div>
+  app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb___3296968774062663508_70140111611180'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (69.9ms)
+
+
+Started GET "/articles/id" for 127.0.0.1 at 2016-12-10 21:26:23 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"id"}
+  [1m[35mArticle Load (0.5ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 0]]
+Completed 404 Not Found in 222ms (ActiveRecord: 1.9ms)
+
+ActiveRecord::RecordNotFound (Couldn't find Article with 'id'=id):
+  app/controllers/articles_controller.rb:8:in `show'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (50.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (66.7ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 21:26:32 -0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (20.8ms)
+Completed 200 OK in 76ms (Views: 74.1ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "segundo articulo"], ["body", "Version Alpha"], ["created_at", "2016-12-11 01:29:02.296454"], ["updated_at", "2016-12-11 01:29:02.296454"]]
+  [1m[36m (225.2ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 21:29:12 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (2.6ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 54ms (Views: 50.6ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 21:29:36 -0400
+Processing by ArticlesController#index as HTML
+  Rendered articles/index.html.erb within layouts/application (6.5ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <%= @articles.each do |article| %>
+    2: 	<h1> <%= article.title %> </h1>
+    3: 	<div> 
+    4: 		<%= article.body %>
+  app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb___1998008296724898734_70140183004940'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (22.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (34.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (68.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-10 21:29:49 -0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.8ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 68ms (Views: 61.1ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/articles/2" for 127.0.0.1 at 2016-12-10 21:32:00 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.5ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered articles/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 60ms (Views: 42.6ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2016-12-10 21:32:07 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered articles/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 48ms (Views: 43.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/" for 127.0.0.1 at 2016-12-10 21:32:11 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 46ms (Views: 41.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:44:40 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.8ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    1: <%= form_for(@article) do |f| %>
+    2: 	<div class="field">
+    3: 		<%= f.text_field :title, placeholder: "Titulo" %>
+    4: 	</div>
+  app/views/articles/new.html.erb:1:in `_app_views_articles_new_html_erb__1856293320751686978_70140183910840'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (58.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (67.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:46:23 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    1: <%= form_for(@articles) do |f| %>
+    2: 	<div class="field">
+    3: 		<%= f.text_field :title, placeholder: "Titulo" %>
+    4: 	</div>
+  app/views/articles/new.html.erb:1:in `_app_views_articles_new_html_erb__1856293320751686978_70140111155220'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (35.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (73.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (70.9ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:47:30 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (7.4ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    1: 
+    2: <%= form_for(@Article) do |f| %>
+    3: 	<div class="field">
+    4: 		<%= f.text_field :title, placeholder: "Titulo" %>
+    5: 	</div>
+  app/views/articles/new.html.erb:2:in `_app_views_articles_new_html_erb__1856293320751686978_70140105184560'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (22.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (65.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (71.9ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:47:50 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (7.4ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    1: 
+    2: <%= form_for(@articles) do |f| %>
+    3: 	<div class="field">
+    4: 		<%= f.text_field :title, placeholder: "Titulo" %>
+    5: 	</div>
+  app/views/articles/new.html.erb:2:in `_app_views_articles_new_html_erb__1856293320751686978_70140181489880'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (23.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (62.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (67.7ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:48:03 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    1: 
+    2: <%= form_for(@article) do |f| %>
+    3: 	<div class="field">
+    4: 		<%= f.text_field :title, placeholder: "Titulo" %>
+    5: 	</div>
+  app/views/articles/new.html.erb:2:in `_app_views_articles_new_html_erb__1856293320751686978_70140107516540'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (34.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (68.4ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:49:16 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (121.2ms)
+Completed 200 OK in 236ms (Views: 218.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:51:34 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:56:40 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 47ms (Views: 46.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:58:29 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 57ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 21:59:13 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 55ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:00:56 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 265ms (Views: 261.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6f6b56e3dde2068f3be51dd63138e4875d8ad251907e4d85ae59443ee1f17e00.css?body=1" for 127.0.0.1 at 2016-12-10 22:00:56 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:04:11 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 49ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:13:20 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 141ms (Views: 139.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-a680bd0cdaca0a85c967f27c2fdc8b39f321c4ae40fb8bc0bd4cd047497036a3.css?body=1" for 127.0.0.1 at 2016-12-10 22:13:20 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:15:43 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 51ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:16:49 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 110ms (Views: 108.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-44fc91caad2a955e89d5856e2ee39548cb185bb1c8062ad845e1b25f162f1857.css?body=1" for 127.0.0.1 at 2016-12-10 22:16:49 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:19:41 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 104ms (Views: 99.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-8103ceb5f2ad19d25309fb060ea41d0444288c919f3d0f1d4484225d219c3a86.css?body=1" for 127.0.0.1 at 2016-12-10 22:19:41 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-10 22:35:46 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 89ms (Views: 71.1ms | ActiveRecord: 1.4ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-10 22:36:16 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BxF/3Jn+k7A0+ZD7RTGNgo0LbPhdikb1xacBBVXMkHSHBsWx/A61sHWk02Y+yMAZLcrce1gTHwXdlGcVWc5GWQ==", "article"=>{"title"=>"Post Nuevo", "body"=>"Post creado!! "}, "commit"=>"Guardar"}
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  app/controllers/articles_controller.rb:11:in `new'
+  app/controllers/articles_controller.rb:16:in `create'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (34.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (67.7ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-10 22:37:10 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BxF/3Jn+k7A0+ZD7RTGNgo0LbPhdikb1xacBBVXMkHSHBsWx/A61sHWk02Y+yMAZLcrce1gTHwXdlGcVWc5GWQ==", "article"=>{"title"=>"Post Nuevo", "body"=>"Post creado!! "}, "commit"=>"Guardar"}
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 1.0ms)
+
+NoMethodError (undefined method `save' for nil:NilClass):
+  app/controllers/articles_controller.rb:18:in `create'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (22.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (70.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (70.6ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-10 22:37:45 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BxF/3Jn+k7A0+ZD7RTGNgo0LbPhdikb1xacBBVXMkHSHBsWx/A61sHWk02Y+yMAZLcrce1gTHwXdlGcVWc5GWQ==", "article"=>{"title"=>"Post Nuevo", "body"=>"Post creado!! "}, "commit"=>"Guardar"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  INSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "Post Nuevo"], ["body", "Post creado!! "], ["created_at", "2016-12-11 02:37:45.579953"], ["updated_at", "2016-12-11 02:37:45.579953"]]
+  [1m[36m (151.2ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/3
+Completed 302 Found in 175ms (ActiveRecord: 153.4ms)
+
+
+Started GET "/articles/3" for 127.0.0.1 at 2016-12-10 22:37:45 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered articles/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 54ms (Views: 50.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/3" for 127.0.0.1 at 2016-12-10 22:40:04 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered articles/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 57ms (Views: 54.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-16 16:28:10 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 1198ms (Views: 1163.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-8103ceb5f2ad19d25309fb060ea41d0444288c919f3d0f1d4484225d219c3a86.css?body=1" for 127.0.0.1 at 2016-12-16 16:28:12 -0400
+
+
+Started GET "/new" for 127.0.0.1 at 2016-12-16 16:28:45 -0400
+
+ActionController::RoutingError (No route matches [GET] "/new"):
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/josera/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/routes/_table.html.erb (32.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (31.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (132.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (96.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (136.7ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-16 16:28:54 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (35.3ms)
+Completed 200 OK in 120ms (Views: 88.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-16 16:29:28 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 46ms (Views: 44.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/" for 127.0.0.1 at 2016-12-16 16:33:40 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 76ms (Views: 69.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-16 16:36:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 37ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1[0m
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-17 15:11:48 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1163ms (Views: 1129.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-b8610969ab57ceda02747bab5a5c0549a12beff6961cc48b59c00813d436256b.css?body=1" for 127.0.0.1 at 2016-12-17 15:11:50 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:12:01 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (233.8ms)
+Completed 200 OK in 302ms (Views: 281.1ms | ActiveRecord: 1.3ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:12:23 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"huF+p4krscZPb9mP5uK9UlLwAhUxF9q9AED7cE0LXPD6ZmYmSJyikWsQ5vOaeaSFU19kehmlDrFn52oXvJZpog==", "article"=>{"title"=>"", "body"=>""}, "commit"=>"Guardar"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (1.2ms)[0m  [1mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", ""], ["body", ""], ["created_at", "2016-12-17 19:12:23.451814"], ["updated_at", "2016-12-17 19:12:23.451814"]]
+  [1m[35m (83.6ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/4
+Completed 302 Found in 113ms (ActiveRecord: 85.0ms)
+
+
+Started GET "/articles/4" for 127.0.0.1 at 2016-12-17 15:12:23 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.5ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 4]]
+  Rendered articles/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 91ms (Views: 47.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:12:37 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.5ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 55ms (Views: 53.6ms | ActiveRecord: 0.5ms)
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1[0m
+  [1m[35mArticle Load (0.8ms)[0m  SELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 4]]
+  [1m[36m (233.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:15:39 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 73ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:16:44 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"IwzvKFgDVjAwt0pY+3yY60RxlRkx2aw2PRhd18DOREhfi/epmbRFZxTIdSSH54E8Rd7zdhlreDpav8ywMVNxGg==", "article"=>{"title"=>"", "body"=>""}, "commit"=>"Guardar"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", ""], ["body", ""], ["created_at", "2016-12-17 19:16:44.766210"], ["updated_at", "2016-12-17 19:16:44.766210"]]
+  [1m[36m (184.3ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/5
+Completed 302 Found in 207ms (ActiveRecord: 186.2ms)
+
+
+Started GET "/articles/5" for 127.0.0.1 at 2016-12-17 15:16:44 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mArticle Load (0.5ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 5]]
+  Rendered articles/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 62ms (Views: 57.4ms | ActiveRecord: 0.5ms)
+  [1m[36mArticle Load (0.9ms)[0m  [1mSELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1[0m
+  [1m[35mArticle Load (0.6ms)[0m  SELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 5]]
+  [1m[36m (182.1ms)[0m  [1mcommit transaction[0m
+  [1m[35mArticle Load (1.0ms)[0m  SELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:19:31 -0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 48ms (Views: 45.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:21:18 -0400
+Processing by ArticlesController#index as HTML
+  Rendered articles/index.html.erb within layouts/application (99.5ms)
+Completed 500 Internal Server Error in 114ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: 
+    2: <%= @articles.each do |article| %>
+    3: 	<h1> <%= article.title %> </h1>
+    4: 	<div> 
+    5: 		<%= article.body %>
+  app/views/articles/index.html.erb:2:in `_app_views_articles_index_html_erb__98417670855730992_70279272505000'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (23.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (100.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (139.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (211.6ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:21:45 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.9ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (19.4ms)
+Completed 200 OK in 85ms (Views: 77.1ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:22:35 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 51ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:23:00 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xDZCI9bgMl82TjyZaTWHjvQ8x5uqXSxDcRe0AHW0PB24sVqiF1chCBIxA+UVrp5Z9ZOh9ILv+E8WsCVnhCkJTw==", "article"=>{"title"=>"4to post", "body"=>"panfna[osf"}, "commit"=>"Guardar"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "4to post"], ["body", "panfna[osf"], ["created_at", "2016-12-17 19:23:00.391326"], ["updated_at", "2016-12-17 19:23:00.391326"]]
+  [1m[36m (140.8ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/6
+Completed 302 Found in 148ms (ActiveRecord: 141.6ms)
+
+
+Started GET "/articles/6" for 127.0.0.1 at 2016-12-17 15:23:00 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 6]]
+  Rendered articles/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 63ms (Views: 59.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/5" for 127.0.0.1 at 2016-12-17 15:23:10 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 5]]
+Completed 404 Not Found in 4ms (ActiveRecord: 0.3ms)
+
+ActiveRecord::RecordNotFound (Couldn't find Article with 'id'=5):
+  app/controllers/articles_controller.rb:8:in `show'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (17.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (53.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (39.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (78.8ms)
+
+
+Started GET "/articles/4" for 127.0.0.1 at 2016-12-17 15:23:15 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 4]]
+Completed 404 Not Found in 8ms (ActiveRecord: 0.2ms)
+
+ActiveRecord::RecordNotFound (Couldn't find Article with 'id'=4):
+  app/controllers/articles_controller.rb:8:in `show'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (52.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (67.6ms)
+
+
+Started GET "/articles/3" for 127.0.0.1 at 2016-12-17 15:23:20 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered articles/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 49ms (Views: 45.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:23:40 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 55ms (Views: 53.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:28:54 -0400
+Processing by ArticlesController#new as HTML
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+ArgumentError (Range unspecified. Specify the :in, :within, :maximum, :minimum, or :is option.):
+  app/models/article.rb:5:in `<class:Articles>'
+  app/models/article.rb:1:in `<top (required)>'
+  app/controllers/articles_controller.rb:12:in `new'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (20.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (11.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (63.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (35.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (73.1ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:29:26 -0400
+Processing by ArticlesController#new as HTML
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+LoadError (Unable to autoload constant Article, expected /home/josera/myapp/app/models/article.rb to define it):
+  app/controllers/articles_controller.rb:12:in `new'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (20.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (63.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (33.3ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (66.7ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:29:59 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 74ms (Views: 52.9ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-17 15:31:20 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 57ms (Views: 56.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-b8610969ab57ceda02747bab5a5c0549a12beff6961cc48b59c00813d436256b.css?body=1" for 127.0.0.1 at 2016-12-17 15:31:20 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:31:29 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 51ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:31:33 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bYeSag78DXeeYbBR1wZehYnnJ00FnOXNmiJflN9efpWJUMbhi9yvgJ/ReHZSxtSxw1BT7jwDGG28DatEUZaIjQ==", "article"=>{"title"=>"", "body"=>""}, "commit"=>"Guardar"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  Rendered articles/new.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 59ms (Views: 47.2ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:31:44 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jYacSX9siTga/si5MZV9xjuHw6uaGh/7e5DNlYLfal3xAYTIvtuabz6B98VNDmQROiilxLKoy/ccN1zyc0JfDw==", "article"=>{"title"=>"", "body"=>""}, "commit"=>"Guardar"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered articles/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 64ms (Views: 52.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:33:58 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 130ms (Views: 128.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/style.self-54343b70ca93a6ad8a2db9d6c23e1a8940708465f22ba8dc22e4651f80876772.css?body=1" for 127.0.0.1 at 2016-12-17 15:33:58 -0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-17 15:34:08 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 54ms (Views: 52.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:34:10 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wOCpSk/ABU6wbfFeuVt90V7xHFjZfIPrx2ImcgyJoQm8Z7HLjncWGZQSziLFwGQGX156N/HOV+egxbcV/RSUWw==", "article"=>{"title"=>"", "body"=>""}, "commit"=>"Guardar"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  Rendered articles/new.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 63ms (Views: 52.4ms | ActiveRecord: 0.4ms)
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1[0m
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 6]]
+  [1m[36m (259.5ms)[0m  [1mcommit transaction[0m
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-17 15:50:03 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MLk5JFesM8/iubceJIlBbXAL/TVLh9YJAdi95d4O2gNMPiGllhsgmMbGiGJYEli6caSbWmM1AgVmfyyCL5PvUQ==", "article"=>{"title"=>"Validar", "body"=>"hola"}, "commit"=>"Guardar"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  Rendered articles/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 50ms (Views: 43.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:50:11 -0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 61ms (Views: 59.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:52:24 -0400
+Processing by ArticlesController#index as HTML
+  Rendered articles/index.html.erb within layouts/application (5.8ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: 
+    2: <%= @articles.each do |article| %>
+    3: 	<h1> <%= article.title %> </h1>
+    4: 	<div> 
+    5: 		<%= article.body %>
+  app/views/articles/index.html.erb:2:in `_app_views_articles_index_html_erb__98417670855730992_70279272505000'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (34.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (70.1ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-17 15:52:54 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.6ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (27.2ms)
+Completed 200 OK in 77ms (Views: 71.3ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-18 20:09:00 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 1250ms (Views: 1226.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-18 20:41:11 -0400
+Processing by ArticlesController#index as HTML
+  Rendered articles/index.html.erb within layouts/application (2.3ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/josera/myapp/app/views/articles/index.html.erb:5: syntax error, unexpected tLABEL
+...inar", article, method: delete: );@output_buffer.safe_append...
+...                               ^
+/home/josera/myapp/app/views/articles/index.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;end;@output_buffer.to_s
+            ^
+/home/josera/myapp/app/views/articles/index.html.erb:8: syntax error, unexpected keyword_ensure, expecting ')'
+/home/josera/myapp/app/views/articles/index.html.erb:10: syntax error, unexpected keyword_end, expecting ')'):
+  app/views/articles/index.html.erb:5: syntax error, unexpected tLABEL
+  app/views/articles/index.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+  app/views/articles/index.html.erb:8: syntax error, unexpected keyword_ensure, expecting ')'
+  app/views/articles/index.html.erb:10: syntax error, unexpected keyword_end, expecting ')'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (24.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (75.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (127.4ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (203.9ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-18 20:44:09 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.9ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 79ms (Views: 76.3ms | ActiveRecord: 1.8ms)
+
+
+Started DELETE "/articles/3" for 127.0.0.1 at 2016-12-18 20:44:16 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"9eWAdS7cZP7eQsQRFBV5lrXJ1uUE1BDJlpsI+gzG2JEeWuaigCbyeEWDFIwWVAVCNYB2qANMO9tp8Jvb5lBZFg==", "id"=>"3"}
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+Completed 500 Internal Server Error in 82ms (ActiveRecord: 0.4ms)
+
+ArgumentError (wrong number of arguments (given 0, expected 1)):
+  app/controllers/articles_controller.rb:35:in `destroy'
+
+
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.5ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.6ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (58.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (36.8ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/josera/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (72.0ms)
+
+
+Started DELETE "/articles/3" for 127.0.0.1 at 2016-12-18 20:47:48 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"9eWAdS7cZP7eQsQRFBV5lrXJ1uUE1BDJlpsI+gzG2JEeWuaigCbyeEWDFIwWVAVCNYB2qANMO9tp8Jvb5lBZFg==", "id"=>"3"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (6.7ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 3]]
+  [1m[36m (183.8ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 217ms (ActiveRecord: 192.6ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-18 20:47:49 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.9ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 76ms (Views: 71.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2016-12-18 20:47:57 -0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (166.8ms)
+Completed 200 OK in 215ms (Views: 213.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2016-12-18 20:48:29 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"35B5zw4pFqd7TBvoiBfT8Nh+3uqwQtkz3iW2GH8sCb00Lx8YoNOAIeCNy3WKVq8kWDd+p7fa8iEhTiU5lbqIOg==", "article"=>{"title"=>"Articulo Para borrar", "body"=>"borra este articulo borra este articulo borra este articulo borra este articulo "}, "commit"=>"Guardar"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (3.4ms)[0m  INSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "Articulo Para borrar"], ["body", "borra este articulo borra este articulo borra este articulo borra este articulo "], ["created_at", "2016-12-19 00:48:29.306053"], ["updated_at", "2016-12-19 00:48:29.306053"]]
+  [1m[36m (329.9ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/7
+Completed 302 Found in 344ms (ActiveRecord: 333.5ms)
+
+
+Started GET "/articles/7" for 127.0.0.1 at 2016-12-18 20:48:29 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 7]]
+  Rendered articles/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 72ms (Views: 70.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-18 20:48:34 -0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.6ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 52ms (Views: 50.1ms | ActiveRecord: 0.6ms)
+
+
+Started DELETE "/articles/7" for 127.0.0.1 at 2016-12-18 20:48:38 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"NpQT+M61hnDIUVNsu6Zq7TZQWugmzCIsLDf4UL3EPUjdK3UvYE8Q9lOQg/G55xY5thn6pSFUCT7TXGtxV1K8zw==", "id"=>"7"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 7]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 7]]
+  [1m[36m (168.5ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 173ms (ActiveRecord: 169.2ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2016-12-18 20:48:38 -0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 50ms (Views: 48.1ms | ActiveRecord: 0.3ms)
