@@ -1,0 +1,27 @@
+<?page title="Profesor" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="Profesor" width="400px" border="normal" apply="controlador.CProfesor">
+	<grid>
+		<rows>
+			<row>
+				ID:
+				<textbox id="id" maxlength="10" cols="30"></textbox>
+			</row>
+			<row>
+				Nombre:
+				<textbox id="nombre" maxlength="30" cols="30"></textbox>
+			</row>
+			<row>
+				Apellido 1:
+				<textbox id="apellido1" maxlength="30" cols="30"></textbox>
+			</row>
+			<row>
+				Apellido 2:
+				<textbox id="apellido2" maxlength="30" cols="30"></textbox>
+			</row>
+		</rows>
+	</grid>
+	
+	<button id="btnGrabar" label="Incluir"></button>
+</window>
+</zk>

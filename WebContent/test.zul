@@ -1,0 +1,6 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+	<window title="nueva pagina para testear" border="normal" width="300px">
+	Al fin puedo modificar algo de esta verga! y al parecer sigue funcionando!
+	</window>
+</zk>
